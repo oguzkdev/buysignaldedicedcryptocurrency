@@ -51,7 +51,6 @@ class Signals:
 
 if __name__ == "__main__": 
 
-    #Futures_TestKey
     api_key = "api_key" # you can write your own binance api_key
     secret_key = "secret_key" # you can write your own binance secret_key
 
